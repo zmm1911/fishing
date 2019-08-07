@@ -3,10 +3,10 @@ this is a scffold project for spring boot
 
 
 # technology stack 
-core framework: spring boot
+**core framework**: spring boot
 
-security framework : Apache Shiro
+**security framework** : Apache Shiro
 
-cache framework: Redis
+**cache framework**: Redis
 
-search framework: Lucene
+**search framework**: Lucene
