@@ -11,25 +11,6 @@ import java.util.ArrayList;
  **/
 public class TheMedianOfTwoArray {
 
-    /**
-     * first : merge the arrays into one array
-     *      use the merge sort algorithm
-     * second: get median of the two array
-     *      ( a + b + 1) / 2
-     *
-     * @param nums1
-     * @param nums2
-     * @return
-     */
-    public static double findMedian(int[] nums1,int[] nums2){
-        // merge array
-        Array a = new ArrayList<>();
-
-
-        return 0;
-    }
-
-
 
     public static double findMedianFromSortedArrays(int[] nums1, int[] nums2) {
         /**
